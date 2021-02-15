@@ -6,5 +6,6 @@ namespace GitExample
 {
     class Class1
     {
+
     }
 }
